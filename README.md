@@ -44,6 +44,7 @@ QUESTION 1.
 
 QUESTION 2.
 [Valid Parentheses](https://neetcode.io/problems/validate-parentheses/question?list=neetcode250)
+
 **MEDIUM**
 
 QUESTION 3. 
